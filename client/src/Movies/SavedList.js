@@ -18,3 +18,6 @@ export default class SavedList extends Component {
     );
   }
 }
+
+export default SavedList;
+
